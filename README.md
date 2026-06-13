@@ -16,7 +16,7 @@ Run the program and follow the prompts to enter the number of stations for U and
 
 ### Prerequisites
 
-- Java 8 or later
+- Java 21 or later
 
 ### Building
 
